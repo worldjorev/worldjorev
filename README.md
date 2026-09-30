@@ -1,8 +1,21 @@
-# Monjorev
-My public profile
 # 👋 ¡Hola! Soy @Jorev
 
 Un perfil polivalente que conecta la **tecnología, los datos y la logística**. Actualmente ampliando mis horizontes en el desarrollo de software y la administración de sistemas.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+![Java](https://shields.io)
+![Python](https://shields.io)
+![PostgreSQL](https://shields.io)
+![Azure](https://shields.io)
+![Git](https://shields.io)
+![Visual Studio Code](https://shields.io)
+
+*   **Lenguajes y BD:** Nociones firmes de `Java`, `Python`, `SQL` y `PostgreSQL`.
+*   **Automatización:** `PowerShell` y `Bash` para scripting en sistemas.
+*   **Editor preferido:** Mi entorno principal de desarrollo es **VS Code**, ideal para configurar proyectos, extensiones y adaptarme rápido como novato en DAM.
 
 ---
 
@@ -17,31 +30,27 @@ Un perfil polivalente que conecta la **tecnología, los datos y la logística**.
 *   **Certificaciones Oficiales:**
     *   ☁️ **Microsoft Certified: Azure Administrator Associate** (AZ-104)
     *   📊 **Microsoft Certified: Fabric Analytics Engineer Associate** (DP-600)
-    *   🌐 **Certificaciones de Google:** Comercio Electrónico (E-commerce), Inteligencia Artificial (IA), entre otras.
+    *   🌐 **Certificaciones de Google:** E-commerce e Inteligencia Artificial (IA).
 
 ---
 
-### 🛠️ Habilidades Técnicas (Conocimientos y Nociones)
+### 📺 Comunidad y Aprendizaje continuo
 
-*   **Lenguajes de Programación:** `Java` | `Python`
-*   **Bases de Datos:** `SQL` | `PostgreSQL`
-*   **Automatización y Scripting:** `PowerShell` | `Bash`
+Me encanta aprender de forma autodidacta siguiendo de cerca los contenidos, tutoriales y directos de grandes referentes de la comunidad hispana:
+*   💻 **[MoureDev](https://moure.dev/)** (Brais Moure) — Siguiendo sus retos de programación y cursos para fortalecer las bases de Java y Python.
+*   ⚡ **[Midudev](https://midu.dev/)** (Miguel Ángel Durán) — Aprendiendo buenas prácticas de desarrollo, trucos de VS Code y actualidad del sector tecnológico.
 
 ---
 
 ### 💞️ ¿En qué me interesa colaborar?
 
-Estoy buscando activamente oportunidades y proyectos de TI para aportar valor y seguir creciendo en roles como:
-*   💻 **Programador / Desarrollador**
+Estoy buscando activamente oportunidades en el sector TI para aportar valor en roles como:
+*   💻 **Programador / Desarrollador Junior**
 *   ☁️ **Administrador de Sistemas / Cloud**
-*   📦 **Proyectos Tech-Logistics:** Aplicando soluciones tecnológicas y analíticas al sector de la logística y la cadena de suministro.
-*   🚀 Cualquier posición desafiante dentro del sector tecnológico.
+*   📦 **Proyectos Tech-Logistics:** Aplicando automatización y analítica de datos al sector logístico.
 
 ---
 
 ### 📚 Fuera de las pantallas...
-Cuando no estoy picando código o configurando la nube, me gusta seguir aprendiendo día a día mediante cursos especializados y devorando buenos libros, especialmente novelas de **thriller**, **historia** y lecturas esporádicas de cultura general.
+Cuando no estoy en VS Code o configurando la nube, sigo aprendiendo día a día mediante cursos especializados y devorando buenos libros, especialmente novelas de **thriller**, **historia** y lecturas esporádicas.
 
----
-
-💡 *¡Si quieres colaborar en algún proyecto o charlar sobre tecnología y logística, no dudes en contactarme!*
