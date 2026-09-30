@@ -13,9 +13,11 @@ Un perfil polivalente que conecta la **tecnología, los datos y la logística**.
 | 🐘 **PostgreSQL / SQL** | Gestión de Bases de Datos | Consultas y estructura |
 | ☁️ **Microsoft Azure** | Administración Cloud (AZ-104 / DP-600) | Certificado oficial |
 | 🗲 **PowerShell & Bash** | Scripting y Sistemas Operativos | Automatización de tareas |
-| 🛠️ **Git & VS Code** | Control de versiones y Entorno principal | Herramientas del día a día |
+| 🛠️ **Git & IDEs** | Control de versiones y Entornos de desarrollo | Herramientas del día a día |
 
-*   **Editor preferido:** Mi entorno principal de desarrollo es **Visual Studio Code**, ideal para configurar proyectos, extensiones y adaptarme rápido como novato en DAM.
+*   **Entornos de desarrollo (IDEs):** Mi editor principal para proyectos generales y scripting es **Visual Studio Code**, pero para picar código en **Java** y exprimir al máximo las asignaturas de DAM utilizo **IntelliJ IDEA**.
+*   **Documentación y autoformación:** Para consultar sintaxis, estructuras y reforzar lo aprendido en clase, utilizo habitualmente plataformas de referencia como **[W3Schools](https://w3schools.com)**.
+
 
 
 ---
