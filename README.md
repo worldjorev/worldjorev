@@ -6,16 +6,17 @@ Un perfil polivalente que conecta la **tecnología, los datos y la logística**.
 
 ### 🛠️ Tecnologías y Herramientas
 
-![Java](https://shields.io)
-![Python](https://shields.io)
-![PostgreSQL](https://shields.io)
-![Azure](https://shields.io)
-![Git](https://shields.io)
-![Visual Studio Code](https://shields.io)
+| Tecnología | Categoría / Rol | Nivel (Nociones) |
+| :--- | :--- | :--- |
+| ☕ **Java** | Lenguaje de Programación (DAM) | Bases firmes y desarrollo |
+| 🐍 **Python** | Scripting y Automatización | Nociones y lógica |
+| 🐘 **PostgreSQL / SQL** | Gestión de Bases de Datos | Consultas y estructura |
+| ☁️ **Microsoft Azure** | Administración Cloud (AZ-104 / DP-600) | Certificado oficial |
+| 🗲 **PowerShell & Bash** | Scripting y Sistemas Operativos | Automatización de tareas |
+| 🛠️ **Git & VS Code** | Control de versiones y Entorno principal | Herramientas del día a día |
 
-*   **Lenguajes y BD:** Nociones firmes de `Java`, `Python`, `SQL` y `PostgreSQL`.
-*   **Automatización:** `PowerShell` y `Bash` para scripting en sistemas.
-*   **Editor preferido:** Mi entorno principal de desarrollo es **VS Code**, ideal para configurar proyectos, extensiones y adaptarme rápido como novato en DAM.
+*   **Editor preferido:** Mi entorno principal de desarrollo es **Visual Studio Code**, ideal para configurar proyectos, extensiones y adaptarme rápido como novato en DAM.
+
 
 ---
 
